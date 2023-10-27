@@ -15,6 +15,12 @@ import java.util.Map;
  * specific tables we use. This way we clean the data in the lesson database quite easily see {@link RestartLessonService#restartLesson()}
  * for how we clean the lesson related tables.
  */
+
+/**
+    API_KEY = GAJS6382JW3YEG4728261HSAJEUY
+ */
+
+
 @Configuration
 public class DatabaseInitialization {
 
